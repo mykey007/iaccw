@@ -1,0 +1,10 @@
+Order deny,allow
+DirectoryIndex index.php
+Options -Indexes
+
+ErrorDocument 403 /error.php
+ErrorDocument 401 /error.php
+ErrorDocument 500 /error.php
+ErrorDocument 400 /error.php
+ErrorDocument 404 /error.php
+

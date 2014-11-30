@@ -1,0 +1,138 @@
+.titolo_bacheca {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #0166FF;
+	text-decoration: none;
+}
+.table_bg {
+	background-image: url(bg_bar.jpg);
+}
+.verdana_10_verde {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #006331;
+	text-decoration: none;
+}
+.table_grigio {
+
+	background-color: #BEBEBE;
+}
+.verdana_10_grigio {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.table_grigio {
+
+
+	background-color: #CCCCCC;
+}
+.titolo_articolo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	font-weight: bold;
+}
+.testo_articolo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	line-height: 15px;
+}
+.table_bg_down {
+
+	background-image: url(bg_bar_down.gif);
+}
+.verdana_11_verde_down {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #009900;
+	text-decoration: none;
+}
+.testo_copyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #9C9C9C;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.testo_arial_11 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	line-height: 17px;
+}
+.testo_copyright2 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #0066FF;
+	text-decoration: none;
+}
+.table_grigio_menu {
+
+
+
+	background-color: #BEBEBE;
+}
+.verdana_11_nero {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: none;
+	line-height: 16px;
+}
+.verdana_11_blu_link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #0066FF;
+	line-height: 16px;
+}
+.piccolo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+	line-height: 10px;
+}
+
+.box { font-family:verdana, tahoma, arial; font-size: 8pt; border-width:1; border-color: #DEDEDE; border-style:solid; background: #ffffff; }
+.verdana_10_nero_elenco {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 12px;
+	color: #000000;
+	list-style-type: disc;
+	font-weight: normal;
+}
+.verdana_14_grassetto {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #FF6A01;
+}
+.verdana_9_grassetto_bianco {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.piccolo_bianco {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #C6D6E1;
+	line-height: 10px;
+}

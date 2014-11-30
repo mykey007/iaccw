@@ -1,0 +1,27 @@
+Order deny,allow
+DirectoryIndex index.php
+Options -Indexes
+
+ErrorDocument 403 /error.php
+ErrorDocument 401 /error.php
+ErrorDocument 500 /error.php
+ErrorDocument 400 /error.php
+ErrorDocument 404 /error.php
+
+
+# BEGIN WordPress
+
+# END WordPress
+
+
+Options +FollowSymlinks
+RewriteEngine on
+
+RedirectMatch 301 ^/$ /index.html
+
+RewriteCond %{HTTP_HOST} ^iaccw.net [NC]
+RewriteRule ^(.*)$ http://www.iaccw.net/$1 [R=301,L]
+
+<IfModule mod_php5.c>
+php_value memory_limit 64M
+</IfModule>

@@ -1,0 +1,60 @@
+Angelo;Di Fusco;ANGELO J. DI FUSCO CPA;3815 Los Olivos Ln;Glendale;CA;91214;(818) 248 3774;(818) 248 9779;;angelo@difusco.com;www.difusco.com;CPA, Accountant;1
+John ;Coleman;COLEMAN JOHN M. CPA;1308 Berkeley St., Suite  3;Santa Monica;CA;90404;(310) 315-3026;;;;;CPA, Accountant;1
+Filippo;Puglisi-Alibrandi;KPMG LLP;355 South Grand Ave., Suite 2000;Los Angeles;CA;90071;(213) 972-4000;(213)947-1293;;;;Risk Advisory services;1
+Brent S.;Merritt;BRENT STEPHEN MERRITT LAW OFFICE;433 North Camden Drive, Sixth floor;Beverly Hills;CA;90210;(310) 550-7319;(310) 550-0828;;bsm@merrittpilaw.com;;Attorney at law ;4
+Cynthia ;Catalino;CATALINO LAW OFFICES;1875 Century Park East, Suite 700;Los Angeles;CA;90067;(310) 998-8822 ;(310) 998-8828 ;;;;Attorney at law ;4
+Philip;Bartenetti;CLARK & TREVITHICK;800 Wilshire Blvd., 12th floor, Suite 1200;Los Angeles;CA;90017;(213) 629-5700;(213) 624-9441;;;;Attorney at law ;4
+Sassan;Masserat;CLARK & TREVITHICK;800 Wilshire Blvd., 12th floor, Suite 1200;Los Angeles;CA;90017;(213) 629-5700;(213) 624-9441;;;;Attorney at law ;4
+Michael;Doland;DOLAND AND FRAADE;12400 Wilshire Blvd., Suite 1180;Los Angeles;CA;90025;(310) 478-1000;(310) 446-1363;;doland@dolandlaw.com;www.dolandlaw.com;Association of Counsel;4
+;;JOSEPH DI GIULIO LAW OFFICES;4640 Admiralty Way;Marina del Rey;CA;90292;(310) 496-5723;;;;;Attorney at law ;4
+Samuel J.;Jason;LAW OFFICES OF SAMUEL J. JASON;11601 Wilshire Blvd., Suite 1830;Los Angeles;CA;90025;(310) 553-0702;(310) 479-0112;;Sam@SamuelJasonLaw.com;www.SamuelJasonlaw.com;Law Office specializing in corporate Formation, International Law and Immigration;4
+Duccio;Mortillaro;ROPERS, MAJESKI, KOHN & BENTLEY;515 So. Flower St., Suite 1100;Los Angeles;CA;90071;(213) 312-2000;;;;;Attorney at law ;4
+Patrick ;Del Duca;ZUBER & TAILLIEU LLP ;10866 Wilshire Blvd., Suite 300;Los Angeles;CA;90024;(310) 807-9700;(310) 807-9701;;;;Attorney at law ;4
+Raffaele ;Di Martino;LAW OFFICES OF SAMUEL J. JASON;11601 Wilshire Blvd., Suite 1830;Los Angeles;CA;90025;(310) 553-0702;(310) 479-0112;;Sam@SamuelJasonLaw.com;www.SamuelJasonlaw.com;Law Office specializing in corporate Formation, International Law and Immigration;4
+;;BANK LEUMI  USA;8383 Wilshire Blvd., Suite 400;Beverly Hills;CA;90211;(323) 966-4727;(323) 966-4251;;;;Commercial bank, private  banking;6
+;;BREMBO NORTH AMERICA, INC.;1585 Sunflower Ave.;Costa Mesa;CA;92626;(714) 641-5831;;;;;Brake components and systems;7
+Massimo;Ludovisi;IMG ITALIAN MARKETING GROUP, INC.;1287 Calle de Madrid;Pacific Palisades;CA;90272;(310) 459-1878;(310) 459-2765;;mludovisi@aol.com;;Marketing and sales of Italian dimensional stone;10
+;;DELOITTE & TOUCHE LLP;350 S. Grand Ave.;Los Angeles;CA;90071;(213) 553-1300;;;;;Audit, consulting, financial advisory, risk management, and tax services  ;10
+Piero;Tarantelli;ITALBIZUSA CONSULTING INC.;24955 PCH, Suite 301B ;Malibu;CA;90265;(310) 500-9865;(310) 282-8455;;piero.tarantelli@italbiz.com;;Business consultant for Italian and American companies;10
+Vincent;Marazita;MARAZITA & ASSOCIATES;22048 Sherman Way, Suite 107;Canoga Park;CA;91303;(818) 887-9298;(818) 887-9299;;vmarazita@mindspring.com;;Business consultant for Italian and American companies ;10
+;;PROMEST USA;10573 W Pico Blvd., Suite 296;Los Angeles;CA;90064;;;;;www.promestusa.com;International business consulting;10
+;;SENATORE CONSULTING;1108 Cleghorn Dr., Suite A;Diamond Bar;CA;91765;(909) 569-4319;(909) 861-5672;;;;Business consultant for Italian and American companies ;10
+Paola;De Mari;;;;;;;;;paolademari@msn.com;;Consultant;10
+Riccardo ;Gallo;;;;;;;;;dadogallo@gmail.com;;Trade Consultant;10
+Joseph R.;Cerrell;CERRELL ASSOCIATES INC.;320 N. Larchmont Blvd.,;Los Angeles;CA;90004;(323) 466-3445;(323) 466-8653;;joe@cerrell.com;www.cerrell.com;Public Relation Agency;10
+;;AMERICAN TOOTH INDUSTRIES;1200 Stellar Drive;Oxnard;CA;93033;(805) 487-9868;(805) 487-0218;;;;Dental and laboratory products;13
+Andrea;Mulas;ANDREA MULAS DDS;9201 Sunset Blvd., Suite 518;West Hollywood;CA;90069;(310) 246-0995;(310) 246-0956;;info@drmulas.com;www.drmulas.com;Full-service general and cosmetic dentistry ;13
+Anthony;Sestito;EXPERIMENTAL USA;6025 Santa Monica Blvd., Suite 204;Hollywood;CA ;90038;(323) 851-8369;;;info@experimentalusa.com;www.experimentalusa.usa;Entertainment, Production;14
+;;BORRACCHINI FOODS INC.;2001  South Plum St.;Seattle;WA;98144;(206) 682-1590;(206) 682-1585;;;;Food distributor;16
+;;D'AQUINO ITALIAN IMPORTING CO. INC.;1850 Business Center Dr.;Duarte;CA;91010;(626) 359-1988;(626) 358-6387;;;;Italian wine importer;16
+Gessica ;Guidi;GUIDI MARCELLO, LTD;1649 10th St.;Santa Monica;CA;90404;(310) 452-6277;(310) 452-3024;;;;Italian Food and Beverage importer and wholesaler;16
+Ugo;Mamolo;VIKTOR BENES CONTINENTAL BAKERIES;703  S. Main St.;Burbank;CA;91506;(818) 841-9347;(818) 841-0139;;bodioti@gmail.com;www.viktorbenes.com;Full line of high quality bakery goods, customized wedding cakes;16
+;;NICO'S ITALIAN FOOD ASSOC. LLC;7000 Blvd East 49K;Guttenberg;NJ;7093;(201) 665-8575;;;;;Italian food distributor;16
+;;SNAIDERO;20300 S. Vermont Ave., Suite 125;Torrance;CA;90502;(310) 516-8499;(310) 516-9918;;;;High end Italian kitchens manufacturer;17
+;;THEMA LLC;Pacific Design Center, 8687 Melrose Ave., Space B300;Los Angeles;CA;90069;(310) 659-8400;(310) 659-8444;;thema@thema-llc.com;www.thema-llc.com;Distributor of contemporary Italian furniture;17
+;;MICUCCI;Pacific Design Center, 8687 Melrose Ave., Suite B 209;Los Angeles;CA;90069;(310) 360-7323;(310) 360-7324;;;;Luxury Italian design giftware;18
+Marco ;Cimmino;MARGARITELLI USA, INC.;925, 14th St.,  Apt. 5;Santa Monica;CA;90403;;;;marco.cimmino@margaritelli.com ;;Manufacturer of hardwood flooring;19
+Tarek;Adra;TAREK ADRA D.C. L.Ac.;10474 Santa Monica Blvd., Suite 202;Los Angeles;CA;90025;(310) 470-2909;;;;www.activereleaselosangeles.com;Chiropractic, Acupuncture, Sport injuries ;37
+Tarek;Adra;VILLAGE WELLNESS CENTER;15247 W. Sunset Blvd., Suite 206 ;Pacific Palisades;CA;90272;(310) 470-2909;;;;www.villagewellness.us;Wellness, health care, sport injuries;37
+;;HUNTLEY HOTEL;1111 Second St.;Santa Monica;CA;90403;(310) 394-0718;(310) 395-8728;;;;Luxury Hotel located in Santa Monica ;20
+Valeria;Cobb;ALBATRANS, INC.;2805 West El Segundo Blvd., Suite 3;Hawthorne;CA;90250;(323) 757-6070;(323) 757-6075;;v.cobb@albatransusa.com;www.albatrans.com;International freight forwarder and customs broker;23
+;;ALPI USA INC.;360 N. Sepulveda Blvd., Suite 1015;El Segundo;CA;90245;(310) 333-0829;(310) 333-0849;;;;International freight forwarder and customs broker;23
+;;SAVINO DEL BENE, INC.;2805 El Segundo Blvd., Suite 1;Hawthorne;CA;90250;(310) 671-9969;(310) 671-9939;;;;International freight forwarder and customs broker;23
+;;DOMANI INVESTMENTS;7825 Fay Ave., Suite 200;La Jolla;CA;92037;(866) 436-6264;(866) 436-6264;;;;Investments advisor ;24
+;;TESTI USA;430 Colorado Ave., Suite 302;Santa Monica;CA;90401;(310) 319-9600;(310) 319-1505;;;;High-fashion jewelry brand designed and manufactured in Italy;27
+Marcella;Spinotti;FONDAZIONE AZZURRA;334 14th St.;Santa Monica;CA;90402;(310) 395-0041;(310) 394-4272;;;;Non-profit organization for the promotion and the study of the Italian language;30
+Piergiorgio ;Luciani;;1917 11th St.,1;Santa Monica;CA;90404;(310) 452-1092;(310) 452-1092;;;;;30
+Gino;Gaudio;STEVENSON REAL ESTATE SERVICES;1111 N. Brand Blvd., Suite 200;Glendale;CA;91202;(818) 956-7001;(818) 502-1306;;gino@stevensonrealestate.com;www.stevensonrealestate.com;Commercial and Industrial Real Estate Sales and Leasing;33
+;;THE STERPA GROUP;200 West Glenoaks Blvd., Suite 202;Glendale;CA;91202;(818) 246-0616;(818) 243-4323;;;;Real estate;33
+Shaun;Sala;TRAVERS REALTY CORP.;11111 Santa Monica Blvd., Suite 150;Los Angeles;CA;90025;(310) 966-8017;(310) 966-8029;;;;Real estate;33
+Celestino ;Drago;DRAGO;2628 Wilshire Blvd.,;Santa Monica;CA;90403;(310) 828-1585 ;(323) 965-7844;;;;Italian restaurant ;34
+;;IL MORO;11400 Olympic Blvd.;Los Angeles;CA;90064;(310) 575-3530;(310) 473-3223;;;;Italian restaurant ;34
+West;Hooker;LOCANDA DEL LAGO;231 Arizona Ave.;Santa Monica;CA;90401;(310) 451-3525;(310) 576-3424;;;;Italian restaurant ;34
+Piero;Selvaggio;VALENTINO RESTAURANT GROUP;3115 Pico Blvd.;Santa Monica;CA;90405;(310) 829-4313;(310) 315-2791;;welovewines@aol.com;;Italian restaurant ;34
+Giampaolo;Mancuso;OMNIA USA;1608 Hillcrest Cir.;Huntington Beach;CA;92648;(714) 374-7175;(714) 374-8151;;gp@omniausa.com;www.ominiausa.com;Packaging products;38
+Emilio;Fontana;ROAL ELECTRONICS USA, Inc.;24955 Pacific Coast Highway, Suite C 301B ;Malibu;CA;90265;(310) 456-9300;(310) 456-9320;(310) 466-7123;e.fontana@roallivingenergy.com;www.roallivingenergy.com;Leading designer and manufacturer of energy efficient, digital light and digital power, power supplies ;35
+Patrizia ;Cavanaugh;EXPERT TRAVEL ASSOCIATES;16250 Ventura Blvd., Suite 205;Encino;CA;91436;(818) 907-0014;(818) 337-7369;;;;Travel Agency ;36
+Leonora;Di Mauro;ITALY IN STYLE;PO Box 3326;Santa Monica;CA;90403;(310) 230-5256;(310) 765-6270;;leonora@italyinstyletravel.com;www.italyinstyletravel.com;Agency specialized in vacation home rentals in Italy, including villas, country houses and apartments. Private tours and other activities.;36
+Giancarlo;Fadin;MERANO TOURS;4756 Columbus Ave.;Sherman Oaks;CA;91403;Toll-Free 1-800-221-4551, (818) 783-0208;(818) 789-0871;;meranotours@att.net;www.meratours.com;Travel Agency ;36
+Lynda;Simonetti;THE BEVERLY HILTON;9876 Wilshire Blvd.;Beverly Hills;CA;90210;(310) 285-1322;;(310) 887-6012;lynda_simonetti@hilton.com;;Luxurious Beverly Hills Hotel (570 rooms, 101 suites and 9 private suites), home of annual events including Golden Globe Awards, Oscar Nominee Luncheon and Pre-Grammy Gala.;20
+Lilian;Palmieri;PICCOLO CHEF;12120 Wagner Street ;Culver City ;CA;90230;(310) 295-4208 ;;;info@piccolochef.com ;www.piccolochef.com ;Culinary Academy for children and teenagers ;16

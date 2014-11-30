@@ -1,0 +1,492 @@
+<?xml version="1.0" ?>
+
+<content>
+
+	<imageWidth>250</imageWidth>
+
+	<imageHeight>210</imageHeight>
+
+	<movementSpeed>2</movementSpeed>
+	
+
+	<item>
+		<image>assocamerestero.jpg</image>
+		<bottomText>Assocamerestero</bottomText>
+		<description>Assocamerestero</description>
+		<linkOutUrl>http://www.assocamerestero.it/Sito/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+
+	<item>
+		<image>cc_perugia.jpg</image>
+		<bottomText>CCIA Perugia</bottomText>
+		<description>Camera di Commercio Perugia</description>
+		<linkOutUrl>http://www.pg.camcom.it/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>Terroni.jpg</image>
+		<bottomText>Terroni Restaurant</bottomText>
+		<description>Terroni Italian Restaurant</description>
+		<linkOutUrl>http://www.terroni.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>FBI_logo.jpg</image>
+		<bottomText>Fashion Business</bottomText>
+		<description>Fashion Business Inc.</description>
+		<linkOutUrl>http://www.fashionbizinc.org</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>fiera_milano.jpg</image>
+		<bottomText>Fiera Milano</bottomText>
+		<description>Fiera Milano</description>
+		<linkOutUrl>http://www.fieramilano.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>regione_veneto.jpg</image>
+		<bottomText>CE Veneto</bottomText>
+		<description>Centro Estero Veneto</description>
+		<linkOutUrl>http://www.centroesteroveneto.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+
+	<item>
+		<image>cciaa_pisa.jpg</image>
+		<bottomText>CCIAA Pisa</bottomText>
+		<description>Camera di Commercio di Pisa</description>
+		<linkOutUrl>http://www.pi.camcom.it/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>cciaa_vic.jpg</image>
+		<bottomText>CCIAA Vicenza</bottomText>
+		<description>Camera di Commercio di Vicenza</description>
+		<linkOutUrl>http://www.vi.camcom.it/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>cciaa_parma.jpg</image>
+		<bottomText>CCIAA Parma</bottomText>
+		<description>Camera di Commercio di Parma</description>
+		<linkOutUrl>http://www.pr.camcom.it/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>puglia.jpg</image>
+		<bottomText>Regione Puglia</bottomText>
+		<description>Regione Puglia</description>
+		<linkOutUrl>http://www.regione.puglia.it/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>alisped.jpg</image>
+		<bottomText>Alisped USA Inc.</bottomText>
+		<description>Alisped USA Inc.</description>
+		<linkOutUrl>http://www.alisped.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>DOMODIMONTI.jpg</image>
+		<bottomText>Domodimonti Wine</bottomText>
+		<description>Domodimonti Wine Importer</description>
+		<linkOutUrl>http://www.domodimonti.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>MotorVillage.jpg</image>
+		<bottomText>MotorVillage L.A.</bottomText>
+		<description>MotorVillage Cars Dealership </description>
+		<linkOutUrl>http://www.motorvillagela.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>guidi.jpg</image>
+		<bottomText>Guidi Marcello, LTD.</bottomText>
+		<description>Guidi Marcello, LTD.</description>
+		<linkOutUrl>http://www.guidimarcello.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>alloro_new.jpg</image>
+		<bottomText>Via Alloro</bottomText>
+		<description>Via Alloro Restuaurant</description>
+		<linkOutUrl>http://viaalloro.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>ombra.jpg</image>
+		<bottomText>Ombra Ristorante</bottomText>
+		<description>Ombra Italian Restuaurant</description>
+		<linkOutUrl>http://www.ombrala.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<!--<item>
+		<image>catalino_logo_header.jpg</image>
+		<bottomText>Catalino Law Offices</bottomText>
+		<description>Catalino Law Offices</description>
+		<linkOutUrl>http://www.catalinolaw.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>-->
+	
+	<item>
+		<image>clark_tr.jpg</image>
+		<bottomText>Clarck &amp; Trevithick</bottomText>
+		<description>Clarck &amp; Trevithick Professional Law Corporation</description>
+		<linkOutUrl>http://www.clarktrev.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>Delizia.jpg</image>
+		<bottomText>Delizia Foods</bottomText>
+		<description>Delizia Foods, Inc. Italian Gourmet Food Importer</description>
+		<linkOutUrl>http://www.deliziafoods.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>Obika.jpg</image>
+		<bottomText>Obika'</bottomText>
+		<description>Obika' Mozzarella Bar</description>
+		<linkOutUrl>http://www.obikala.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>tosca_logo.jpg</image>
+		<bottomText>Toscanova</bottomText>
+		<description>Toscanova Italian Restaurant</description>
+		<linkOutUrl>http://www.toscanova.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>operacaffe.jpg</image>
+		<bottomText>Operacaffe'</bottomText>
+		<description>Operacaffe'</description>
+		<linkOutUrl>http://www.operacaffe.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	<!--
+	<item>
+		<image>j_ass.jpg</image>
+		<bottomText>Jason And Assoc.</bottomText>
+		<description>Jason And Associates Attorneys At Law</description>
+		<linkOutUrl>http://www.samueljasonlaw.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	-->
+	<item>
+		<image>Lagos.jpg</image>
+		<bottomText>Locanda Del Lago</bottomText>
+		<description>Locanda Del Lago Restaurant</description>
+		<linkOutUrl>http://www.lagosantamonica.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>savino_logo.jpg</image>
+		<bottomText>Savino Del Bene</bottomText>
+		<description>Savino Del Bene Logistics</description>
+		<linkOutUrl>http://www.savinodelbene.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>stev.jpg</image>
+		<bottomText>Stevenson R.E.</bottomText>
+		<description>Stevenson Real Estate Services</description>
+		<linkOutUrl>http://www.stevensonrealestate.com/site/index.php</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>marchioPeA.jpg</image>
+		<bottomText>Pavia e Ansaldo</bottomText>
+		<description>Studio Legale Pavia e Ansaldo</description>
+		<linkOutUrl>http://www.pavia-ansaldo.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>ritrovo.jpg</image>
+		<bottomText>Ritrovo Foods</bottomText>
+		<description>Ritrovo Italian Regional Foods</description>
+		<linkOutUrl>http://www.ritrovo.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>il_pastaio.jpg</image>
+		<bottomText>Il Pastaio</bottomText>
+		<description>Il Pastaio Restaurant</description>
+		<linkOutUrl>http://www.giacominodrago.com/pastaio.htm</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	<!--
+	<item>
+		<image>huntley.jpg</image>
+		<bottomText>The Huntley Hotel</bottomText>
+		<description>The Huntley Hotel</description>
+		<linkOutUrl>http://www.thehuntleyhotel.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>-->
+	
+	<item>
+		<image>caffe-roma.jpg</image>
+		<bottomText>Caffe' Roma</bottomText>
+		<description>Caffe' Roma Restaurant</description>
+		<linkOutUrl>http://www.cafferomabeverlyhills.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>drago_centro.jpg</image>
+		<bottomText>Drago Centro</bottomText>
+		<description>Drago Centro Resaturant</description>
+		<linkOutUrl>http://www.dragocentro.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>merano.jpg</image>
+		<bottomText>Merano Tours</bottomText>
+		<description>Merano Tours</description>
+		<linkOutUrl>http://www.meranotours.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>roal.jpg</image>
+		<bottomText>Roal USA</bottomText>
+		<description>Roal Electronics, USA</description>
+		<linkOutUrl>http://www.roallivingenergy.net/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>boffi.jpg</image>
+		<bottomText>Boffi Los Angeles</bottomText>
+		<description>Boffi Los Angeles</description>
+		<linkOutUrl>http://www.boffi.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>LOGOMarino.jpg</image>
+		<bottomText>Marino Restaurant</bottomText>
+		<description>Marino Restaurant</description>
+		<linkOutUrl>http://www.marinorestaurant.net</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>VAlogo.jpg</image>
+		<bottomText>Valla & Associates</bottomText>
+		<description>Valla & Associates, Inc.</description>
+		<linkOutUrl>http://www.vallalaw.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>Dapasquale.jpg</image>
+		<bottomText>Da Pasquale</bottomText>
+		<description>Da Pasquale Trattoria Italiana</description>
+		<linkOutUrl>http://www.dapasqualecaffe.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>pasta_mia.jpg</image>
+		<bottomText>Pasta Mia</bottomText>
+		<description>Fresh Frozen Gourmet Pasta</description>
+		<linkOutUrl>http://www.pastamia.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+
+	<item>
+		<image>BH_logo.jpg</image>
+		<bottomText>The Beverly Hilton</bottomText>
+		<description>The Beverly Hilton</description>
+		<linkOutUrl>http://www.beverlyhilton.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>luxe.jpg</image>
+		<bottomText>The Luxe Hotel</bottomText>
+		<description>The Luxe Hotel in Rodeo Drive</description>
+		<linkOutUrl>http://www.luxehotelrodeodrive.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>GBU2.jpg</image>
+		<bottomText>Global Business Union</bottomText>
+		<description>Global Business Union - International business consulting</description>
+		<linkOutUrl>http://www.globalbusinessunion.com </linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>MQR_A.jpg</image>
+		<bottomText>MARCO Q. ROSSI</bottomText>
+		<description>Marco Q. Rossi e Associati - Attorney at law</description>
+		<linkOutUrl>http://www.lawrossi.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>alitalia.jpg</image>
+		<bottomText>Alitalia</bottomText>
+		<description>Alitalia</description>
+		<linkOutUrl>http://www.alitalia.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>alpiUSA.jpg</image>
+		<bottomText>Alpi USA Inc.</bottomText>
+		<description>Alpi USA Inc.</description>
+		<linkOutUrl>http://www.alpiusa.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+<!--	
+	<item>
+		<image>nico.jpg</image>
+		<bottomText>Nico's Italian Food</bottomText>
+		<description>Nico's Italian Food Assoc.</description>
+		<linkOutUrl>mailto:LLCrniconewyork@aol.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+-->	
+	<item>
+		<image>dainese.jpg</image>
+		<bottomText>Dainese</bottomText>
+		<description>Dainese</description>
+		<linkOutUrl>http://www.dainese.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>borracchini.jpg</image>
+		<bottomText>Borracchini Foods</bottomText>
+		<description>Borracchini Foods Inc.</description>
+		<linkOutUrl>http://www.bizfind.us/48/297890/borracchini-foods-inc/seattle.aspx</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>piccolochef.jpg</image>
+		<bottomText>Piccolo Chef</bottomText>
+		<description>Culinary Academy for children and teenagers </description>
+		<linkOutUrl>http://www.piccolochef.com </linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	<!--
+	<item>
+		<image>hairdiamond.jpg</image>
+		<bottomText>HairDiamond</bottomText>
+		<description>Hair designs for professional salons and retails</description>
+		<linkOutUrl>http://www.hairdiamond.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	-->
+	<item>
+		<image>avg.jpg</image>
+		<bottomText>AGV</bottomText>
+		<description>The AGV Legendary Helmets</description>
+		<linkOutUrl>http://www.agv.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+ 
+  <item>
+		<image>Benchmark.jpg</image>
+		<bottomText>Benchmark Design</bottomText>
+		<description>BENCHMARK Architectural Products</description>
+		<linkOutUrl>http://www.benchmarkdirect.net</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>battaglia.jpg</image>
+		<bottomText>Battaglia Shop Inc</bottomText>
+		<description>BATTAGLIA SHOP Inc</description>
+		<linkOutUrl>http://www.battaglia-beverlyhills.com/</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>sundek.jpg</image>
+		<bottomText>SUNDEK USA</bottomText>
+		<description>Sundek USA</description>
+		<linkOutUrl>http://www.sundekusa.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>Drago_Logo_New.gif</image>
+		<bottomText>DRAGO Restaurant</bottomText>
+		<description>DRAGO Restaurant</description>
+		<linkOutUrl>http://www.celestinodrago.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>homelogo_landi_new.gif</image>
+		<bottomText>LANDI RENZO USA</bottomText>
+		<description>LANDI RENZO USA</description>
+		<linkOutUrl>http://www.landiusa.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	
+	<item>
+		<image>snaidero_logo.jpg</image>
+		<bottomText>SNAIDERO USA</bottomText>
+		<description>SNAIDERO USA</description>
+		<linkOutUrl>http://www.snaidero-usa.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	<!--
+	<item>
+		<image>son_logo.gif</image>
+		<bottomText>SONNENSCHEIN NATH...</bottomText>
+		<description>SONNENSCHEIN NATH & ROSENTHAL LLP</description>
+		<linkOutUrl>http://www.sonnenschein.com/index.aspx</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	-->
+	<item>
+		<image>logo-ilfornaio.jpg</image>
+		<bottomText>IL FORNAIO</bottomText>
+		<description>IL FORNAIO</description>
+		<linkOutUrl>http://www.ilfornaio.com</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	<!--
+	<item>
+		<image>NASA.jpg</image>
+		<bottomText>N.A.S. Association</bottomText>
+		<description>North American Sommelier Association</description>
+		<linkOutUrl>http://www.nasommelier.com/home.html</linkOutUrl>
+		<linkOutTarget>_blank</linkOutTarget>
+	</item>
+	-->
+</content>

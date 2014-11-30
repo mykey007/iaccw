@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<content>
+	<video_item>
+		<url>http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dcjcz3wyjymQ</url>
+		<spotlight>1</spotlight>
+	</video_item>
+	<video_item>
+		<url>http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DleqgUrsRzJc%26amp%3Bfeature%3Drelated</url>
+		<spotlight>0</spotlight>
+	</video_item>
+	<video_item>
+		<url>http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Djwu_uB--4ho%26feature%3Drelated</url>
+		<spotlight>0</spotlight>
+	</video_item>
+	<video_item>
+		<url>http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoS9MDYtmKKE</url>
+		<spotlight>0</spotlight>
+	</video_item>
+	<video_item>
+		<url>http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrquMxXxi_v8%26feature%3Drelated</url>
+		<spotlight>0</spotlight>
+	</video_item>
+	<video_item>
+		<url>http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRmLLUg-DsHs%26feature%3Dshare</url>
+		<spotlight>0</spotlight>
+	</video_item>
+	<video_item>
+		<url>http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVzbAp6PzJoI</url>
+		<spotlight>0</spotlight>
+	</video_item>
+</content>
